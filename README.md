@@ -329,7 +329,7 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [SCMPgraphics](https://twitter.com/SCMPgraphics)
 * [Darren Long](https://twitter.com/darrenlonghk)
 * [Adolfo Arranz](https://twitter.com/adolfux)
-* ?
+* [Marco Hernandez](https://twitter.com/TmarcoH)
 
 
 ## Spiegel
