@@ -323,13 +323,15 @@ New York City, US / [Website](https://www.propublica.org/data/)
 
 ## Reuters Graphics
 [@ReutersGraphics](https://twitter.com/ReutersGraphics)
-* ? 
+* [Simon Scarr](https://twitter.com/SimonScarr)
+* [Marco Hernandez](https://twitter.com/TmarcoH)
 
 ## South China Morning Post
 * [SCMPgraphics](https://twitter.com/SCMPgraphics)
 * [Darren Long](https://twitter.com/darrenlonghk)
 * [Adolfo Arranz](https://twitter.com/adolfux)
-* ?
+* [Pablo Robles](https://twitter.com/pabloroblesg)
+* [Han Huang](https://twitter.com/Han_Miami)
 
 
 ## Spiegel
